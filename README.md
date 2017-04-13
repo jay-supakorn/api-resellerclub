@@ -2,7 +2,7 @@
 คู่มือการใช้งานเบื้องต้น 
 
 ## Example for API
-$data = array();<br />
+<sub>$data = array();</sub><br />
 $data["username"] = 'example@mail.com';<br />
 $data["password"] = '123456';<br />
 [Ex. User Login](https://moqshosting.github.io/api-resellerclub/) <br />
